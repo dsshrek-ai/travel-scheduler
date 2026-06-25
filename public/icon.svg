@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="100" fill="#2563eb"/>
+  <!-- Plane body -->
+  <path d="M320 160 L200 256 L140 248 L128 268 L188 280 L196 316 L216 312 L220 280 L280 296 L268 316 L284 320 L304 288 L352 296 L372 276 L320 260 L368 200 Z" fill="white"/>
+  <!-- Subtle speed lines -->
+  <line x1="110" y1="300" x2="155" y2="300" stroke="white" stroke-width="6" stroke-linecap="round" opacity="0.35"/>
+  <line x1="95"  y1="320" x2="148" y2="320" stroke="white" stroke-width="5" stroke-linecap="round" opacity="0.25"/>
+  <line x1="108" y1="340" x2="145" y2="340" stroke="white" stroke-width="4" stroke-linecap="round" opacity="0.18"/>
+</svg>

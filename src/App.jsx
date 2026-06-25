@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react'
 import { fetchSheetData, extractPackingList, extractTrips } from './utils/sheetsParser'
 import TripDetails from './components/TripDetails'
 import PackingList from './components/PackingList'
+import InstallBanner from './components/InstallBanner'
 import styles from './App.module.css'
 
 export default function App() {
@@ -87,6 +88,7 @@ export default function App() {
           </div>
         )}
       </main>
+      <InstallBanner />
     </div>
   )
 }
