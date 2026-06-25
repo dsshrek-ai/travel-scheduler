@@ -40,6 +40,7 @@ Open [http://localhost:5173/travel-scheduler/](http://localhost:5173/travel-sche
 npm run build
 # then push the dist/ folder to the gh-pages branch, or use:
 npx gh-pages -d dist
+# Live at: https://dsshrek-ai.github.io/travel-scheduler/
 ```
 
 ## Google Sheet Structure
